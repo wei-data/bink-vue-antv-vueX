@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+
+"list": [
+    {
+        "key": 1,
+        "mechanismName": "北京分公司",
+        "coding": 8611,
+        "manufacturerName": "外呼厂商-天润",
+        "createTime": "2023-04-11 05:05:39",
+        "state": "无效",
+        "operation": ""
+    },
+    {
+        "key": 2,
+        "mechanismName": "北京分公司",
+        "coding": 8611,
+        "manufacturerName": "外呼厂商-雪融融",
+        "createTime": "2023-04-11 05:05:39",
+        "state": "有效",
+        "operation": ""
+    },
+    {
+        "key": 3,
+        "mechanismName": "北京分公司",
+        "coding": 8611,
+        "manufacturerName": "外呼厂商-冰墩墩",
+        "createTime": "2023-04-11 05:05:39",
+        "state": "无效",
+        "operation": ""
+    }
+]
+
+}
